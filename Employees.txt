@@ -1,0 +1,7 @@
+EMPLOYEES LIST
+   Fistname: cj                                                                         
+   Lastname: 
+   Position: 
+   HRs/Rate: 
+
+
